@@ -1,0 +1,4 @@
+A versão do python usada foi a versão 3.10.2
+
+Para executar basta clonar esse repositório, entrar na pasta Ex_2 e rodar o comando python routes.py
+O servidor irá subir no ip 127.0.0.1:5000 e você deverá usar o postman ou o próprio thunder client do vscode para dar um POST na rota /api/v1/message/ com o json no body da requisição e receberá como retorno a sua mensagem.
