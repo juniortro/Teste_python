@@ -1,0 +1,3 @@
+A versão do python usada foi a versão 3.10.2
+
+Para executar basta clonar esse repositório, selecionar o app.py e dar play no vscode.

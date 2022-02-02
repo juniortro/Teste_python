@@ -1,6 +1,8 @@
 import json
-
+import sys
 response = 0
+
+print(sys.version)
 
 while response != '3':
     print('1- Read configuration \n2- Write configuration \n3- Exit')
