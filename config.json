@@ -1,0 +1,5 @@
+{
+    "server_name": "Server 1",
+    "server_ip": "192.168.0.1",
+    "server_password": "123"
+}
